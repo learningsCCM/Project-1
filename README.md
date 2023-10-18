@@ -1,6 +1,6 @@
 # Project-1
-##Directions:
-###3This is the second part of Project #1.
+## Directions:
+### This is the second part of Project #1.
 <b>Objective:</b> Using Python, what insights can be drawn from the Course Survey data to help increase the number of students (any group) taking computing classes?
 Start with your cleaned data from the previous Data Cleaning exercise. Then, document in a Jupyter Notebook four findings that can help guide the recruiting or messaging efforts. Documentation should include codes, plots, and comments (using Markdown cells). Code output and plots should clearly show your findings.
 <b>Questions to consider:</b> These are just some questions to consider. Feel free to explore the data in any avenue to come up with your four insights. There is a lot of rich data in these survey results, which could be analyzed in many ways. In your analysis, be sure to focus on the problem, which is to learn from these students to know what brought them to the course, so that we can attract others and learn from the non-majors why and what their interests are in computing.
